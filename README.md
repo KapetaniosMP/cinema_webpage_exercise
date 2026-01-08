@@ -14,7 +14,6 @@ This project is a full-stack cinema web application that demonstrates fundamenta
  - 💺Ticket Booking and Seat Selection
  - 🗄️MySQL backend
 
-
 ## 🧠 Technologies Used
  - Java for the Back-End
  - MySQL for Database
@@ -43,8 +42,7 @@ cd cinema-booking-web-app
 4. Go to Database → Forward Engineer to generate the SQL script and execute it.
 5. Run the project on the IDE.
 
-
-## 🔒 Code Ownership & Usage Terms
+# 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
 - Konstantinos Pavlis (@kpavlis)
