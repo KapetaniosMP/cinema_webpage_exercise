@@ -1,36 +1,37 @@
-# 💺Cinema Booking Web Application
+# 💺 Cinema Booking Web Application
 
-**A basic cinema web application for ticket booking and seat selection.**
+**A simple cinema web application for ticket booking.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
-## 📕Overview
+## 📕 Overview
 This project is a full-stack cinema web application that demonstrates fundamental web development concepts through a practical, functional example. The application provides a user-friendly interface that allows visitors to browse and reserve movie tickets, while showcasing core backend operations for data management.
 
 ## ⚡Features
- - 🔐User registration and authentication.
- - 🕒View available screening times by date
- - 💺Ticket Booking and Seat Selection
- - 🗄️MySQL backend
+ - 🔐 User registration and authentication
+ - 🕒 View available screening times by date
+ - 💺 Ticket booking of the desired movie and cinema
 
 ## 🧠 Technologies Used
- - Java for the Back-End
- - MySQL for Database
- - JavaServer Pages for the UI
+ - MVC architecture
+ - Java for Business Logic
+ - HTML5
+ - MySQL for data persistence
+ - Bootstrap for UI
 
 ## 🎯 Purpose
-A full-stack cinema web application built to demonstrate dynamic user interactions on the frontend and core database operations on the backend.
-**Note: This application is developed solely for academic purposes as part of a university exercise.**
+A full-stack cinema web application built to demonstrate dynamic user interactions on the frontend and core database operations on the backend. **It is developed solely for academic and research purposes.**
 
 ## 🧰 Prerequisites
 Before building and running this application, ensure you have the following:
- - any IDE for Java, like IntelliJ IDEA
- - MySQL Workbench
+ - **Eclipse IDE** for Enterprise Java and Web Developers
+ - **MySQL Workbench** (version 8.0 or newer)
+ - **MySQL server** (version 8.0 or newer)
 
 ## 📦 Installation
 
-1. Clone the repository.
+1. **Clone the repository (or download and decompress the ZIP file)**
 
 ```bash
 git clone https://github.com/kpavlis/cinema-booking-web-app.git
