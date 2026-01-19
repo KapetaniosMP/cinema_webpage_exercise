@@ -14,22 +14,22 @@ This project is a full-stack cinema web application that demonstrates fundamenta
  - Secure login system (password hashing) for Customers, Admins, and Content Admins
  - Role-based access control with dynamic navigation
 
-### 🎟️ Customer Panel
- - Browse available projections 📅
- - Make reservations with film and cinema selection 🛒
- - View and cancel existing reservations ❌
- - Receive confirmation feedback for actions ✅
+### 🎟️ Customer Functionality
+ - Browse available projections
+ - Make reservations with film and cinema selection
+ - View and cancel existing reservations
+ - Receive confirmation feedback for actions
 
-### 🧑‍💼 Admin Panel
- - View all users 👥
- - Search, update, delete users ✏️
- - Register new users with role assignment 📝
+### 🧑‍💼 Admin Functionality
+ - View all users
+ - Search, update, delete users
+ - Register new users with role assignment
 
-### 🎬 Content Admin Panel
- - Insert and manage films 🎞️
- - View film listings and projections 📋
- - Assign films to cinemas (create projections) 🏛️
- - Delete films 🗑️
+### 🎬 Content Admin Functionality
+ - Insert and manage films
+ - View film listings and projections
+ - Assign films to cinemas (create projections)
+ - Delete films
 
 ## 🧠 Technologies Used
  - MVC architecture
@@ -39,7 +39,7 @@ This project is a full-stack cinema web application that demonstrates fundamenta
  - Bootstrap for UI
 
 ## 🎯 Purpose
-This project delivers a modular, role-based cinema reservation system tailored for administrators, content managers, and customers. It streamlines user management, film curation, and ticket booking through intuitive web interfaces, ensuring efficient operations and a smooth user experience across all roles. **It is developed solely for academic and research purposes.**
+The purpose of this application is to deliver a modular, role-based cinema reservation system tailored for administrators, content managers, and customers. It streamlines user management, film curation, and ticket booking through intuitive web interfaces, ensuring efficient operations and a smooth user experience across all roles. **It is developed solely for academic and research purposes.**
 
 ## 🧰 Prerequisites
 Before building and running this application, ensure you have the following:
